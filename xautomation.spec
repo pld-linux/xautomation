@@ -1,5 +1,5 @@
 Summary:	Tools for controling X from the command line
-Summary(pl):	Narzêdzia do kontroli X-Window z linii poleceñ
+Summary(pl):	Narzêdzia do sterowania X Window System z linii poleceñ
 Name:		xautomation
 Version:	0.96
 Release:	1
@@ -10,12 +10,12 @@ Group:		X11/Applications
 Source0:	http://hoopajoo.net/static/projects/%{name}-%{version}.tar.gz
 # Source0-md5:	55f1247f9e25d57ba23e9e9f3cf5f87e
 URL:		http://hoopajoo.net/projects/xautomation.html
-BuildRequires:	X11-devel
+BuildRequires:	XFree86-devel
 BuildRequires:	libpng-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-The conrol interface allows mouse movement, clicking, button up/down,
+The control interface allows mouse movement, clicking, button up/down,
 key up/down, etc. The visgrep program find images inside of images and
 reports the coordinates, allowing progams to find buttons, etc, on the
 screen to click on.
@@ -49,5 +49,4 @@ rm -rf $RPM_BUILD_ROOT
 %files
 %defattr(644,root,root,755)
 %doc AUTHORS ChangeLog README
-
 %attr(755,root,root) %{_bindir}/*
