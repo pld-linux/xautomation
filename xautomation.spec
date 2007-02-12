@@ -1,5 +1,5 @@
 Summary:	Tools for controling X from the command line
-Summary(pl):	Narzêdzia do sterowania X Window System z linii poleceñ
+Summary(pl.UTF-8):   NarzÄ™dzia do sterowania X Window System z linii poleceÅ„
 Name:		xautomation
 Version:	0.96
 Release:	1
@@ -22,12 +22,12 @@ screen to click on.
 
 Useful with tools like <http://bur.st/~benc/index.pl?p=external-edit>.
 
-%description -l pl
-Narzêdzia pozwalaj± na poruszanie wska¼nikiem myszy, ,,naciskanie''
-przycisków na klawiaturze itd. visgrep szuka obrazów w obrazach, by
-mo¿na by³o zlokalizowaæ przyciski do klikniêcia.
+%description -l pl.UTF-8
+NarzÄ™dzia pozwalajÄ… na poruszanie wskaÅºnikiem myszy, ,,naciskanie''
+przyciskÃ³w na klawiaturze itd. visgrep szuka obrazÃ³w w obrazach, by
+moÅ¼na byÅ‚o zlokalizowaÄ‡ przyciski do klikniÄ™cia.
 
-U¿yteczne z narzêdziami w rodzaju
+UÅ¼yteczne z narzÄ™dziami w rodzaju
 <http://bur.st/~benc/index.pl?p=external-edit>.
 
 %prep
