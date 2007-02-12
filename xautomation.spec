@@ -1,5 +1,5 @@
 Summary:	Tools for controling X from the command line
-Summary(pl.UTF-8):   Narzędzia do sterowania X Window System z linii poleceń
+Summary(pl.UTF-8):	Narzędzia do sterowania X Window System z linii poleceń
 Name:		xautomation
 Version:	0.96
 Release:	1
