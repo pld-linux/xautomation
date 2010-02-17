@@ -1,13 +1,13 @@
 Summary:	Tools for controling X from the command line
 Summary(pl.UTF-8):	Narzędzia do sterowania X Window System z linii poleceń
 Name:		xautomation
-Version:	1.02
-Release:	2
+Version:	1.03
+Release:	1
 License:	GPL v2+
 Vendor:		Steve Slaven <bpk@hoopajoo.net>
 Group:		X11/Applications
 Source0:	http://hoopajoo.net/static/projects/%{name}-%{version}.tar.gz
-# Source0-md5:	523198135f7cf7a5324189aef20ac48d
+# Source0-md5:	91030079b0ecf96195dd21bcec635cb6
 URL:		http://hoopajoo.net/projects/xautomation.html
 BuildRequires:	libpng-devel
 BuildRequires:	xorg-lib-libX11-devel
