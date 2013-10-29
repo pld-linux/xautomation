@@ -2,7 +2,7 @@ Summary:	Tools for controling X from the command line
 Summary(pl.UTF-8):	Narzędzia do sterowania X Window System z linii poleceń
 Name:		xautomation
 Version:	1.03
-Release:	4
+Release:	5
 License:	GPL v2+
 Vendor:		Steve Slaven <bpk@hoopajoo.net>
 Group:		X11/Applications
